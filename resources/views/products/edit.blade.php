@@ -1,4 +1,4 @@
-@extends(`layout.main`)
+@extends('layout.main')
 @section('contenido')
     <div class="container mt-3">
         <div class="row">
